@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="first">
+        <p> Universe knowledge</p> 
+        <p> explore the amazing universe </p>
+    </div>
+    <div class="second">
+        <a href = "#div1">Home</a>
+        <a href = "#div2">solar system</a>
+        <a href = "#div3">galaxy</a>
+        <a href = "#div4">black hole</a>
+         <a href = "#div5">nebula</a>
+    
+    </div>
+    <div class="third" id="div2">
+        <h1> solar system</h1>
+        <p> 
+        <img src=" https://gelogia.com/wp-content/uploads/2024/10/solar-system-1080x675.jpg" alt = "image" height="400" width="250">
+        <p>The solar system consists of the Sun—a star containing over 99% of the system's mass—and all the objects orbiting it, including eight planets, dwarf planets, moons, asteroids, and comets, all bound by gravity
+
+        </p>
+    </div>
+    <div class ="fourth" id="div3">
+        <h1> galaxy</h1>
+        <img src="https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2dldHR5aW1hZ2VzLTU0MTM4NTg1Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ=="
+        ><p>A galaxy is a system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity. The word is derived from the Greek galaxias, meaning 'milky', a reference to the Milky Way galaxy that contains the Solar System.
+Source: </p>
+    </div>
+    <div class="fifth" id="div4">
+        <h1>black hole</h1>
+        <img src="https://www.sciencenews.org/wp-content/uploads/sites/2/2019/09/092719_mt_blackhole_feat.jpg?w=1030 ">
+<p>A black hole is a region of space where gravity is so incredibly intense that nothing, not even light, can escape. Formed by the collapse of massive stars, they possess a boundary called an event horizon—the point of no return—and a central singularity, where matter is compressed to infinite density</p>
+
+    </div>
+    <div class="sixth" id="div5">
+    <h1>nebula</h1>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_oLWdD6MvUcaFuE3YeKJCATlPec1xbHmlw&s">
+   <p>A nebula is a vast, interstellar cloud of dust, hydrogen, helium, and other ionized gases, often acting as a stellar nursery where new stars form or as remnants from dying stars</p>
+
+</body>
+</html>
