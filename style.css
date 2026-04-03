@@ -1,0 +1,47 @@
+.first{
+    background-color: rgb(197, 226, 217);
+    border:2px solid black;
+    border-width: 5px;
+    border-color: grey;
+    text-align: center;
+}
+
+.second{
+    background-color: hsl(197, 226, 217);
+    text-align: center ;
+    border: 2px solid black;
+    padding: 2px;
+    border-width: 5px;
+    border-color: grey;
+}
+a{
+    border: 1px solid black;
+    padding:3px;
+    
+}
+.third{
+    text-align: center;
+    border:2px solid black;
+    border-width: 5px;
+    border-color: grey;
+    padding:3px
+}
+.fourth{
+    text-align: center;
+    border: 2px solid black;
+    border-width: 5px;
+    border-color: grey;
+    padding:3px
+}
+.fifth{
+    text-align: center;
+    border: 2px solid black;
+    border-width: 5px;
+    border-color: grey;
+} 
+.sixth{
+ text-align: center;
+    border: 2px solid black;
+    border-width: 5px;
+    border-color: grey;   
+}
